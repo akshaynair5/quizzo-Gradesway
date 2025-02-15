@@ -1,7 +1,3 @@
-Here's the improved setup procedure for both the **Frontend** and **Backend**:  
-
----
-
 ### **📌 Frontend Setup**  
 
 1️⃣ **Install Dependencies**  
